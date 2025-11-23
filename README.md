@@ -35,7 +35,7 @@ voice_bot_project/
 │   └── dashboard.py  # Streamlit Analytics Dashboard
 ├── data/             # SQLite Database storage
 └── requirements.txt  # Project dependencies
-
+```
 
 ```mermaid
 graph TD
