@@ -13,7 +13,7 @@ A full-stack AI Voice Bot capable of real-time speech recognition, intent unders
 * **Text-to-Speech:** Generates natural audio responses using gTTS.
 * **Database Integration:** Fetches real-time account details and FAQs from an SQLite database.
 * **Analytics Dashboard:** Tracks user queries, response times, and intent distribution via Streamlit.
-
+```markdown
 ## Project Structure
 ```text
 voice_bot_project/
